@@ -1,1 +1,5 @@
-1.c++11之constexpr与const区别
+# 1.c++11之constexpr与const区别
+**const与constexpr关键字**：
+c++11中新增加了constexpr关键字，二者主要区别为：
+1. const用于表示被修饰变量或函数具有只读的特性，无法修改，而constexpr用于表示被修饰变量具有“常量特性”。
+2. **`constexpr`**: 表示编译时常量，它要求变量在编译时就必须能够求值，无需等到运行时计算，极大提高运行效率。而**`const`**：表示运行时常量。
