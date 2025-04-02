@@ -22,5 +22,5 @@ c++11中新增加了constexpr关键字，二者主要区别为：
 4.**const_cast**：const_cast 是 C++ 中专门用于 常量属性 的类型转换操作符。它的主要作用是 移除 或 添加 对象的 const 或 volatile 修饰符。  
  - 移除 const 限定符：允许将指向常量的指针或引用转换为指向非常量的指针或引用，以便修改常量对象（注意：修改真正的常量对象会导致未定义行为）。
  - 添加 const 限定符：也可以用于给指针或引用添加 const 限定符。
- - 
-[点击查看四种类型转换的用法及区别](https://blog.csdn.net/weixin_45031801/article/details/142147962)  
+
+   [点击查看四种类型转换的用法及区别](https://blog.csdn.net/weixin_45031801/article/details/142147962)  
