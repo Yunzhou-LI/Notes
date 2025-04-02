@@ -23,4 +23,10 @@ c++11中新增加了constexpr关键字，二者主要区别为：
  - 移除 const 限定符：允许将指向常量的指针或引用转换为指向非常量的指针或引用，以便修改常量对象（注意：修改真正的常量对象会导致未定义行为）。
  - 添加 const 限定符：也可以用于给指针或引用添加 const 限定符。
 
-   [点击查看四种类型转换的用法及区别](https://blog.csdn.net/weixin_45031801/article/details/142147962)  
+   [点击查看四种类型转换的用法及区别](https://blog.csdn.net/weixin_45031801/article/details/142147962)
+
+### 3.mutable关键字
+
+### 4.explicit关键字
+
+
