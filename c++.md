@@ -45,3 +45,12 @@ c++11中新增加了constexpr关键字，二者主要区别为：
   [点击查看带示例的运算](https://www.cnblogs.com/zhangzhixi/p/13875465.html)
 ### 6.mmap内存映射
 
+### 7.条件变量之wait_for() ,notify_one(),notify_all() 
+
+### 8.静态库与动态库区别 
+
+### 9.windows下静/动态库与linux下区别
+
+### 10.vector动态扩容，reserve()，size()，resize()使用记录
+
+
